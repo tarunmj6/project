@@ -353,6 +353,8 @@ You should have received a copy of the GNU General Public License along with thi
 	// print the scanresult
 	function printoutput($output, $treestyle=1)
 	{
+		// Need to add PostgreSQL Config aspects
+		
 		if(!empty($output))
 		{
 			$nr=0;
